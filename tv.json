@@ -28,7 +28,7 @@
 			}
 		},
 		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
+			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using Brighm3u8cript, which is Roku's scripting language.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -129,8 +129,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/126.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/126.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -155,8 +155,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/139.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/139.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -181,8 +181,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/125.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/125.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -207,8 +207,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/138.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/138.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -233,8 +233,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/127.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/127.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -259,8 +259,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/140.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/140.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -285,8 +285,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286679.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286679.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -311,8 +311,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286683.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286683.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -337,8 +337,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286680.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286680.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -363,8 +363,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286684.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286684.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -389,8 +389,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286681.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286681.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -415,8 +415,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286685.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286685.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -441,8 +441,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286682.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286682.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -467,8 +467,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286686.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/286686.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -493,8 +493,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300940.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300940.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -519,8 +519,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300941.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300941.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -545,8 +545,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300942.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300942.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -571,8 +571,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300943.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300943.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -597,8 +597,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300944.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300944.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -623,8 +623,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300945.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300945.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -649,8 +649,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300946.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300946.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -675,8 +675,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300947.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300947.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -701,8 +701,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300948.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300948.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -727,8 +727,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300949.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300949.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -753,8 +753,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300950.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300950.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -779,8 +779,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300951.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300951.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -805,8 +805,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300952.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/300952.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -831,8 +831,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/136.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/136.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -857,8 +857,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/142.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/142.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -883,8 +883,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/128.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/128.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -909,8 +909,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/1068.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/1068.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -935,8 +935,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/130.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/130.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -961,8 +961,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/144.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/144.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -987,8 +987,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/131.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/131.m3u8",
                         "quality": "FHD"
                     }
                 ],
@@ -1013,8 +1013,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/145.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/145.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -1039,8 +1039,8 @@
                 "duration": 0,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/69084.ts",
+                        "videoType": "M3U8",
+                        "url": "http://pfsv.io:80/paulopinheiro/Pp54321/69084.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -1053,7 +1053,7 @@
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Videos highlighting Roku products and features",
+			"shortDescription": "Videos highlighting Roku producm3u8 and features",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
 			"genres": [
 				"educational"
@@ -1165,9 +1165,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
-							"shortDescription": "Let your guests stream with their own accounts",
+							"shortDescription": "Let your guesm3u8 stream with their own accounm3u8",
 							"releaseDate": "2019-12-03",
-							"longDescription": "Let your guests stream with their own accounts",
+							"longDescription": "Let your guesm3u8 stream with their own accounm3u8",
 							"tags": [
 								"tips"
 							],
@@ -1201,9 +1201,9 @@
 								"language": "en-us"
 							},
 							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
-							"shortDescription": "See the benefits of the Private Listening",
+							"shortDescription": "See the benefim3u8 of the Private Listening",
 							"releaseDate": "2019-10-15",
-							"longDescription": "See the benefits of the Private Listening",
+							"longDescription": "See the benefim3u8 of the Private Listening",
 							"tags": [
 								"tips"
 							],
@@ -1271,7 +1271,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.png",
 							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+							"longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounm3u8 and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view im3u8 output in the debug console.",
 							"tags": [
 								"RSG"
 							],
@@ -1282,7 +1282,7 @@
 
 						{
 							"id": "video3-scenegraph-overview",
-							"title": "Core concepts",
+							"title": "Core concepm3u8",
 							"episodeNumber": 3,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
@@ -1294,10 +1294,10 @@
 								"duration": 765,
 								"language": "en-us"
 							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
-							"shortDescription": "Review key concepts for developing on the Roku platform.",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepm3u8.png",
+							"shortDescription": "Review key concepm3u8 for developing on the Roku platform.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Review key concepts for developing on the Roku platform. This lesson explains the basic design principles and key concepts of Roku development, provide an overview of Roku's development platform, and review the contents and structure of Roku channels. You'll learn about: SceneGraph and BrightScript, the different types of components you can use to build your channel UI, and many other topics. When you are done with this lesson, you will be ready to start working on your first Roku channel!",
+							"longDescription": "Review key concepm3u8 for developing on the Roku platform. This lesson explains the basic design principles and key concepm3u8 of Roku development, provide an overview of Roku's development platform, and review the contenm3u8 and structure of Roku channels. You'll learn about: SceneGraph and Brighm3u8cript, the different types of componenm3u8 you can use to build your channel UI, and many other topics. When you are done with this lesson, you will be ready to start working on your first Roku channel!",
 							"tags": [
 								"RSG"
 							],
@@ -1323,7 +1323,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
 							"shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
 							"releaseDate": "2020-07-18",
-							"longDescription": "Learn how the content feed is used to load and organize content in the channel. This lesson explains how the ContentNode maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating your own feed.",
+							"longDescription": "Learn how the content feed is used to load and organize content in the channel. This lesson explains how the ContentNode maps metadata in your content feed to componenm3u8 in your channel UI, and it provides a few tips for creating your own feed.",
 							"tags": [
 								"RSG"
 							],
@@ -1349,7 +1349,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
 							"shortDescription": "Build a grid screen that displays rows of content",
 							"releaseDate": "2020-05-07",
-							"longDescription": "Build a grid screen that displays rows of content. This lesson describes how to create a basic channel that gets the videos from a content feed and displays them in a grid. It explains how to create SceneGraph components, set their attributes, and create their interfaces. It also teaches how to use BrightScript to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to your components.",
+							"longDescription": "Build a grid screen that displays rows of content. This lesson describes how to create a basic channel that gem3u8 the videos from a content feed and displays them in a grid. It explains how to create SceneGraph componenm3u8, set their attributes, and create their interfaces. It also teaches how to use Brighm3u8cript to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to your componenm3u8.",
 							"tags": [
 								"RSG"
 							],
@@ -1374,7 +1374,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png",
 							"shortDescription": "Add a video player to launch content into playback",
 							"releaseDate": "2020-05-13",
-							"longDescription": "Add a video player to launch content into playback. This lesson teaches how to add the SceneGraph Video node to your channel and link it to the content in other components. It explains how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control.",
+							"longDescription": "Add a video player to launch content into playback. This lesson teaches how to add the SceneGraph Video node to your channel and link it to the content in other componenm3u8. It explains how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control.",
 							"tags": [
 								"RSG"
 							],
@@ -1403,7 +1403,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
 							"shortDescription": "Debug Roku channels using the debug console",
 							"releaseDate": "2020-05-13",
-							"longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
+							"longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug porm3u8. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
 							"tags": [
 								"RSG"
 							],
@@ -1428,7 +1428,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
 							"shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
 							"releaseDate": "2020-07-13",
-							"longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
+							"longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph componenm3u8. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other componenm3u8, and switch the focus when the Details Screen is opened and closed.",
 							"tags": [
 								"RSG"
 							],
@@ -1453,7 +1453,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
 							"shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
 							"releaseDate": "2020-05-29",
-							"longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lists the episodes in the selected season. This lesson explains how to use new components such as the MarkupList and further layer components to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
+							"longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lism3u8 the episodes in the selected season. This lesson explains how to use new componenm3u8 such as the MarkupList and further layer componenm3u8 to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
 							"tags": [
 								"RSG"
 							],
@@ -1506,7 +1506,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
 							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
 							"releaseDate": "2020-06-27",
-							"longDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay. This lesson explains how to get started with Roku Pay, including how to create a channel, in-channel products, and test users. It describes how the Roku Pay workflow from checking entitlements to completing purchases and granting access to content. It explains how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.",
+							"longDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay. This lesson explains how to get started with Roku Pay, including how to create a channel, in-channel producm3u8, and test users. It describes how the Roku Pay workflow from checking entitlemenm3u8 to completing purchases and granting access to content. It explains how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.",
 							"tags": [
 								"RSG"
 							],
@@ -1581,7 +1581,7 @@
 							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
 							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
 							"releaseDate": "2020-07-16",
-							"longDescription": "Prepare your channel to be published to the Roku channel store. This lesson explains how to test your channel's design and performance and verify that it meets all of Roku's certification criteria using Roku's test automation software and automated testing tools. It provides a quick demo of Roku's Static Analysis tool, which detects certification-related issues with your channel's code and must be passed in order for your channel to be published to the Roku channel store.",
+							"longDescription": "Prepare your channel to be published to the Roku channel store. This lesson explains how to test your channel's design and performance and verify that it meem3u8 all of Roku's certification criteria using Roku's test automation software and automated testing tools. It provides a quick demo of Roku's Static Analysis tool, which detecm3u8 certification-related issues with your channel's code and must be passed in order for your channel to be published to the Roku channel store.",
 							"tags": [
 								"RSG"
 							],
@@ -1595,8 +1595,8 @@
 		}
 	],
 	"movies": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the Brighm3u8cript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
+			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brighm3u8cript-network-debug-protocol.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -1606,12 +1606,12 @@
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"title": "Brighm3u8cript debug protocol",
 			"content": {
 				"duration": 713,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brighm3u8cript-debug-protocol.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
