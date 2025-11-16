@@ -43,5 +43,24 @@
             </roku:content>
         </item>
         
+        <item>
+            <title>Gloob FHD</title>
+            <link>http://provedorduo.xyz:80/flavio321/flavio321/152310.ts</link>
+            <description>Canal Infantil - Gloob FHD</description>
+            <media:thumbnail url="https://logos.imperioapps.xyz/GLOOB.png" />
+            <roku:content id="1003" contentType="live">
+                <roku:title>Gloob FHD</roku:title>
+                <roku:shortDescription>Canal Infantil</roku:shortDescription>
+                <roku:longDescription>Canal infantil com programação em alta definição.</roku:longDescription>
+                <roku:rating>TV-G</roku:rating>
+                <roku:releaseDate>2025-11-16</roku:releaseDate>
+                <roku:genres>Kids, Live TV</roku:genres>
+                <roku:runtime>0</roku:runtime>
+                <roku:url>http://provedorduo.xyz:80/flavio321/flavio321/152310.ts</roku:url>
+                <roku:hdPosterUrl>https://logos.imperioapps.xyz/GLOOB.png</roku:hdPosterUrl>
+                <roku:sdPosterUrl>https://logos.imperioapps.xyz/GLOOB.png</roku:sdPosterUrl>
+            </roku:content>
+        </item>
+        
     </channel>
 </rss>
