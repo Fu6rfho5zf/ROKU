@@ -6,8 +6,8 @@
         <description>Feed de conteúdo de exemplo para o aplicativo Hero Grid.</description>
         
         <item>
-            <title>Filme de Ação Incrível</title>
-            <link>http://www.example.com/item1</link>
+            <title>cartoon</title>
+            <link>https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1811368670.m3u8</link>
             <description>Uma descrição emocionante sobre um filme de ação.</description>
             <media:thumbnail url="http://www.example.com/thumbnail1.jpg" />
             <roku:content id="1001" contentType="movie">
@@ -17,10 +17,10 @@
                 <roku:rating>PG-13</roku:rating>
                 <roku:releaseDate>2025-11-16</roku:releaseDate>
                 <roku:genres>Action, Adventure</roku:genres>
-                <roku:runtime>90</roku:runtime>
-                <roku:url>http://www.example.com/video1.mp4</roku:url>
-                <roku:hdPosterUrl>http://www.example.com/poster1_hd.jpg</roku:hdPosterUrl>
-                <roku:sdPosterUrl>http://www.example.com/poster1_sd.jpg</roku:sdPosterUrl>
+                <roku:runtime>80</roku:runtime>
+                <roku:url>https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1811368670.m3u8</roku:url>
+                <roku:hdPosterUrl>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp</roku:hdPosterUrl>
+                <roku:sdPosterUrl>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp</roku:sdPosterUrl>
             </roku:content>
         </item>
         
@@ -56,7 +56,7 @@
                 <roku:releaseDate>2025-11-16</roku:releaseDate>
                 <roku:genres>Kids, Live TV</roku:genres>
                 <roku:runtime>0</roku:runtime>
-                <roku:url>http://provedorduo.xyz:80/flavio321/flavio321/152310.ts</roku:url>
+                <roku:url>http://provedorduo.xyz:80/flavio321/flavio321/152310.m3u8</roku:url>
                 <roku:hdPosterUrl>https://logos.imperioapps.xyz/GLOOB.png</roku:hdPosterUrl>
                 <roku:sdPosterUrl>https://logos.imperioapps.xyz/GLOOB.png</roku:sdPosterUrl>
             </roku:content>
