@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:roku="http://developer.roku.com/channel/content">
+    <channel>
+        <title>Conteúdo de Exemplo para Roku</title>
+        <link>http://www.example.com</link>
+        <description>Feed de conteúdo de exemplo para o aplicativo Hero Grid.</description>
+        
+        <item>
+            <title>Filme de Ação Incrível</title>
+            <link>http://www.example.com/item1</link>
+            <description>Uma descrição emocionante sobre um filme de ação.</description>
+            <media:thumbnail url="http://www.example.com/thumbnail1.jpg" />
+            <roku:content id="1001" contentType="movie">
+                <roku:title>Filme de Ação Incrível</roku:title>
+                <roku:shortDescription>Ação, aventura e explosões!</roku:shortDescription>
+                <roku:longDescription>Este é um filme que vai prender sua atenção do início ao fim. Prepare-se para muita adrenalina.</roku:longDescription>
+                <roku:rating>PG-13</roku:rating>
+                <roku:releaseDate>2025-11-16</roku:releaseDate>
+                <roku:genres>Action, Adventure</roku:genres>
+                <roku:runtime>90</roku:runtime>
+                <roku:url>http://www.example.com/video1.mp4</roku:url>
+                <roku:hdPosterUrl>http://www.example.com/poster1_hd.jpg</roku:hdPosterUrl>
+                <roku:sdPosterUrl>http://www.example.com/poster1_sd.jpg</roku:sdPosterUrl>
+            </roku:content>
+        </item>
+        
+        <item>
+            <title>Série de Comédia Leve</title>
+            <link>http://www.example.com/item2</link>
+            <description>Uma série divertida para toda a família.</description>
+            <media:thumbnail url="http://www.example.com/thumbnail2.jpg" />
+            <roku:content id="1002" contentType="series">
+                <roku:title>Série de Comédia Leve</roku:title>
+                <roku:shortDescription>Risadas garantidas!</roku:shortDescription>
+                <roku:longDescription>Acompanhe as aventuras hilárias de um grupo de amigos em situações cotidianas.</roku:longDescription>
+                <roku:rating>TV-PG</roku:rating>
+                <roku:releaseDate>2024-01-01</roku:releaseDate>
+                <roku:genres>Comedy</roku:genres>
+                <roku:runtime>30</roku:runtime>
+                <roku:url>http://www.example.com/video2.mp4</roku:url>
+                <roku:hdPosterUrl>http://www.example.com/poster2_hd.jpg</roku:hdPosterUrl>
+                <roku:sdPosterUrl>http://www.example.com/poster2_sd.jpg</roku:sdPosterUrl>
+            </roku:content>
+        </item>
+        
+    </channel>
+</rss>
