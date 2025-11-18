@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>Mini Feed Teste</title>
+    <description>Apenas 2 conteúdos para teste</description>
+
+    <!-- ITEM 1 -->
+    <item>
+        <guid>1</guid>
+        <media:content url="https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4">
+            <media:title>Big Buck Bunny</media:title>
+            <media:description>Vídeo de teste 1.</media:description>
+            <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Big.Buck.Bunny.-.Opening.Screen.png/320px-Big.Buck.Bunny.-.Opening.Screen.png"/>
+        </media:content>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+        <guid>2</guid>
+        <media:content url="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4">
+            <media:title>Elephant Dream</media:title>
+            <media:description>Vídeo de teste 2.</media:description>
+            <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elephants_Dream_s1_proog.jpg/320px-Elephants_Dream_s1_proog.jpg"/>
+        </media:content>
+    </item>
+
+</channel>
+</rss>
