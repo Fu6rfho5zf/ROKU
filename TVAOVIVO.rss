@@ -9,9 +9,9 @@
     <item>
       <title>Live Gaming</title>
       <category>Games</category>
-      <link>https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4</link>
+      <link>https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.m3u8</link>
       <description>
-        With the Twitch channel, you can watch the most popular broadcasts of the day...
+        With the Twitch channel, you can watch the most popular broadcasm3u8 of the day...
       </description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
@@ -24,12 +24,12 @@
         framerate="23.976"
         height="720"
         width="1280"
-        type="video/mp4"
+        type="video/m3u8"
         isDefault="true"
-        url="https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4">
+        url="https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.m3u8">
 
         <media:description>
-          With the Twitch channel, you can watch the most popular broadcasts...
+          With the Twitch channel, you can watch the most popular broadcasm3u8...
         </media:description>
 
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
@@ -48,7 +48,7 @@
     <item>
       <title>Box Kids TV</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/2546497.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/2546497.m3u8</link>
       <description>Box Kids TV canal infantil</description>
 
       <media:content 
@@ -59,11 +59,11 @@
         framerate="25"
         height="720"
         width="1280"
-        type="video/mp4"
+        type="video/m3u8"
         isDefault="true"
-        url="http://lideboxr.store:80/881101381017/896811296068/2546497.ts">
+        url="http://lideboxr.store:80/881101381017/896811296068/2546497.m3u8">
 
-        <media:thumbnail url="https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png"/>
+        <media:thumbnail url="https://boxbrazil.tv.br/assem3u8/images/logos/box-kids-logo.png"/>
         <media:title>Box Kids TV</media:title>
       </media:content>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>DumDum SD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/236014.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
       <description>DumDum canal infantil</description>
 
       <media:content 
@@ -82,8 +82,8 @@
         framerate="25"
         height="720"
         width="1280"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/236014.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
         
         <media:thumbnail url="https://logos.imperioapps.xyz/DUMDUM.png"/>
         <media:title>DumDum SD</media:title>
@@ -93,7 +93,7 @@
     <item>
       <title>Nickelodeon FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/223512.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/223512.m3u8</link>
       <description>Nickelodeon canal infantil</description>
 
       <media:content 
@@ -104,8 +104,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/223512.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/223512.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/NICKELODEON.png"/>
         <media:title>Nickelodeon FHD</media:title>
@@ -115,7 +115,7 @@
     <item>
       <title>Cartoon Network FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152307.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152307.m3u8</link>
       <description>Cartoon Network canal infantil</description>
 
       <media:content 
@@ -126,8 +126,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152307.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152307.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/CARTOON_NETWORK.png"/>
         <media:title>Cartoon Network FHD</media:title>
@@ -137,7 +137,7 @@
     <item>
       <title>Gloob FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152310.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152310.m3u8</link>
       <description>Gloob canal infantil</description>
 
       <media:content 
@@ -148,8 +148,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152310.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152310.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/GLOOB.png"/>
         <media:title>Gloob FHD</media:title>
@@ -159,7 +159,7 @@
     <item>
       <title>Gloobinho FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152313.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152313.m3u8</link>
       <description>Gloobinho canal infantil</description>
 
       <media:content 
@@ -170,8 +170,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152313.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152313.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/GLOBINHO.png"/>
         <media:title>Gloobinho FHD</media:title>
@@ -181,7 +181,7 @@
     <item>
       <title>Nick JR FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152316.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152316.m3u8</link>
       <description>Nick JR canal infantil</description>
 
       <media:content 
@@ -192,8 +192,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152316.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152316.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/NICK_JR.png"/>
         <media:title>Nick JR FHD</media:title>
@@ -203,7 +203,7 @@
     <item>
       <title>Cartoonito FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152322.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152322.m3u8</link>
       <description>Cartoonito canal infantil</description>
 
       <media:content 
@@ -214,8 +214,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152322.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152322.m3u8">
 
         <media:thumbnail url="https://www.fontedecanais.io/logos/canais/cartoonito.png"/>
         <media:title>Cartoonito FHD</media:title>
@@ -225,7 +225,7 @@
     <item>
       <title>TV Ra Tim Bum FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152326.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152326.m3u8</link>
       <description>TV Ra Tim Bum canal infantil</description>
 
       <media:content 
@@ -236,8 +236,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152326.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152326.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/TV_RA_TIM_BUM.png"/>
         <media:title>TV Ra Tim Bum FHD</media:title>
@@ -247,7 +247,7 @@
     <item>
       <title>Discovery Kids FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152329.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152329.m3u8</link>
       <description>Discovery Kids canal infantil</description>
 
       <media:content 
@@ -258,8 +258,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152329.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152329.m3u8">
 
         <media:thumbnail url="https://logos.imperioapps.xyz/DISCOVERY_KIDS.png"/>
         <media:title>Discovery Kids FHD</media:title>
@@ -269,7 +269,7 @@
     <item>
       <title>Kids Mais HD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152338.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152338.m3u8</link>
       <description>Kids Mais canal infantil</description>
 
       <media:content 
@@ -280,8 +280,8 @@
         framerate="25"
         height="720"
         width="1280"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152338.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152338.m3u8">
 
         <media:thumbnail url="https://i.imgur.com/86cfDFx.png"/>
         <media:title>Kids Mais HD</media:title>
@@ -291,7 +291,7 @@
     <item>
       <title>Tooncast FHD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152339.ts</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/152339.m3u8</link>
       <description>Tooncast canal infantil</description>
 
       <media:content 
@@ -302,8 +302,8 @@
         framerate="25"
         height="1080"
         width="1920"
-        type="video/mp4"
-        url="http://lideboxr.store:80/881101381017/896811296068/152339.ts">
+        type="video/m3u8"
+        url="http://lideboxr.store:80/881101381017/896811296068/152339.m3u8">
 
         <media:thumbnail url="https://www.fontedecanais.io/logos/canais/tooncast.png"/>
         <media:title>Tooncast FHD</media:title>
