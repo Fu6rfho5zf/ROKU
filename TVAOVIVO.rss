@@ -24,9 +24,9 @@
         framerate="23.976"
         height="720"
         width="1280"
-        type="video/m3u8"
+        type="video/png"
         isDefault="true"
-        url="https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.m3u8">
+        url="https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/png/header_002.png">
 
         <media:description>
           With the Twitch channel, you can watch the most popular broadcasm3u8...
