@@ -9,7 +9,7 @@
     <item>
       <title>Live Gaming</title>
       <category>Games</category>
-      <link>https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.m3u8</link>
+      <link>https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/png/header_002.png</link>
       <description>
         With the Twitch channel, you can watch the most popular broadcasm3u8 of the day...
       </description>
@@ -34,7 +34,7 @@
 
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
 
-        <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/j5_.540x304.jpeg" />
+        <media:thumbnail url="https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/png/header_002.png" />
 
         <media:title>Live Gaming</media:title>
       </media:content>
