@@ -1,89 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-  <channel>
-    <title>Categorias - Infantil</title>
-    <item>
-      <title>Box Kids TV</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/2546497.ts</link>
-      <description>Box Kids TV canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png"/>
-    </item>
-    <item>
-      <title>DumDum SD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/236014.ts</link>
-      <description>DumDum canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/DUMDUM.png"/>
-    </item>
-    <item>
-      <title>Nickelodeon FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/223512.ts</link>
-      <description>Nickelodeon canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/NICKELODEON.png"/>
-    </item>
-    <item>
-      <title>Cartoon Network FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152307.ts</link>
-      <description>Cartoon Network canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/CARTOON_NETWORK.png"/>
-    </item>
-    <item>
-      <title>Gloob FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152310.ts</link>
-      <description>Gloob canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/GLOOB.png"/>
-    </item>
-    <item>
-      <title>Gloobinho FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152313.ts</link>
-      <description>Gloobinho canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/GLOBINHO.png"/>
-    </item>
-    <item>
-      <title>Nick JR FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152316.ts</link>
-      <description>Nick JR canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/NICK_JR.png"/>
-    </item>
-    <item>
-      <title>Cartoonito FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152322.ts</link>
-      <description>Cartoonito canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://www.fontedecanais.io/logos/canais/cartoonito.png"/>
-    </item>
-    <item>
-      <title>TV Ra Tim Bum FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152326.ts</link>
-      <description>TV Ra Tim Bum canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/TV_RA_TIM_BUM.png"/>
-    </item>
-    <item>
-      <title>Discovery Kids FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152329.ts</link>
-      <description>Discovery Kids canal infantil</description>
-      <category>♦️Canais | Discovery</category>
-      <media:thumbnail url="https://logos.imperioapps.xyz/DISCOVERY_KIDS.png"/>
-    </item>
-    <item>
-      <title>Kids Mais HD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152338.ts</link>
-      <description>Kids Mais canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://i.imgur.com/86cfDFx.png"/>
-    </item>
-    <item>
-      <title>Tooncast FHD</title>
-      <link>http://lideboxr.store:80/881101381017/896811296068/152339.ts</link>
-      <description>Tooncast canal infantil</description>
-      <category>♦️Canais | Infantis</category>
-      <media:thumbnail url="https://www.fontedecanais.io/logos/canais/tooncast.png"/>
-    </item>
-  </channel>
+    <channel>
+        <title>Sample Roku Feed - Custom</title>
+        <link>https://example.com</link>
+        <description>Feed personalizado com conteúdos selecionados</description>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/twitch_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/twitch_hd.jpg">
+            <title>Live Gaming</title>
+            <contentId>10001</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4</streamUrl>
+            </media>
+            <synopsis>With the Twitch channel, you can watch the most popular broadcasts of the day.</synopsis>
+            <genres>Gaming</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/paula_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/paula_hd.jpg">
+            <title>Let's Get Cookin'</title>
+            <contentId>10002</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_5_paula_nw_050515.mp4</streamUrl>
+            </media>
+            <synopsis>Paula Deen’s new cooking and lifestyle shows.</synopsis>
+            <genres>Cooking</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/ted_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/ted_hd.jpg">
+            <title>Ideas Worth Spreading</title>
+            <contentId>10003</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_1_ted_nw_050515.mp4</streamUrl>
+            </media>
+            <synopsis>TEDTalks para inspirar, intrigar e estimular a imaginação.</synopsis>
+            <genres>Education</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/contv_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/contv_hd.jpg">
+            <title>Fanboys Unite</title>
+            <contentId>10004</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/ep-126-seg-3_contv_v1-mo.mp4</streamUrl>
+            </media>
+            <synopsis>ConTV — Sci-fi, cult classics e mais.</synopsis>
+            <genres>Geek</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/ufc_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/ufc_hd.jpg">
+            <title>Fight Pass</title>
+            <contentId>10005</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_3_ufc_nw_051815.mp4</streamUrl>
+            </media>
+            <synopsis>Acesso a lutas clássicas e eventos UFC.</synopsis>
+            <genres>Sports</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/sharks_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/sharks_hd.jpg">
+            <title>Giant Sharks And More</title>
+            <contentId>10006</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/roku_119_segment_2_062315.mp4</streamUrl>
+            </media>
+            <synopsis>Documentários sobre história, ciência, natureza e mistérios.</synopsis>
+            <genres>Documentary</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/espn_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/espn_hd.jpg">
+            <title>Get Your Game Face On</title>
+            <contentId>10007</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/rr_ep_124_segment_2_080315_h264.mp4</streamUrl>
+            </media>
+            <synopsis>ESPN — 24/7 de esportes ao vivo.</synopsis>
+            <genres>Sports</genres>
+        </item>
+
+        <item sdImg="https://devtools.web.roku.com/samples/images/nick_sd.jpg"
+              hdImg="https://devtools.web.roku.com/samples/images/nick_hd.jpg">
+            <title>Get Slimed</title>
+            <contentId>10008</contentId>
+            <contentType>Movie</contentType>
+            <contentQuality>HD</contentQuality>
+            <media>
+                <streamFormat>mp4</streamFormat>
+                <streamQuality>HD</streamQuality>
+                <streamUrl>https://devtools.web.roku.com/samples/video/rr/ep-123-seq-4-nick-alt_081215.mp4</streamUrl>
+            </media>
+            <synopsis>Conteúdo da Nickelodeon disponível no Roku.</synopsis>
+            <genres>Kids</genres>
+        </item>
+
+    </channel>
 </rss>
