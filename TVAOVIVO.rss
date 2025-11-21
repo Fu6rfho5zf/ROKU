@@ -8,8 +8,11 @@
     <!-- ============================== -->
     <item>
       <title>Live Gaming</title>
+      <category>Games</category>
       <link>https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4</link>
-      <description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</description>
+      <description>
+        With the Twitch channel, you can watch the most popular broadcasts of the day...
+      </description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
 
@@ -26,7 +29,7 @@
         url="https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4">
 
         <media:description>
-          With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.
+          With the Twitch channel, you can watch the most popular broadcasts...
         </media:description>
 
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
@@ -42,11 +45,9 @@
     <!-- CANAIS ADICIONADOS (INFANTIS)  -->
     <!-- ============================== -->
 
-    <!-- MODELO PADRÃO INSERIDO PARA TODOS OS CANAIS -->
-    <!-- bitrate, framerate, etc. podem ser ajustados -->
-    
     <item>
       <title>Box Kids TV</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/2546497.ts</link>
       <description>Box Kids TV canal infantil</description>
 
@@ -69,6 +70,7 @@
 
     <item>
       <title>DumDum SD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/236014.ts</link>
       <description>DumDum canal infantil</description>
 
@@ -90,6 +92,7 @@
 
     <item>
       <title>Nickelodeon FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/223512.ts</link>
       <description>Nickelodeon canal infantil</description>
 
@@ -111,6 +114,7 @@
 
     <item>
       <title>Cartoon Network FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152307.ts</link>
       <description>Cartoon Network canal infantil</description>
 
@@ -132,6 +136,7 @@
 
     <item>
       <title>Gloob FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152310.ts</link>
       <description>Gloob canal infantil</description>
 
@@ -153,6 +158,7 @@
 
     <item>
       <title>Gloobinho FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152313.ts</link>
       <description>Gloobinho canal infantil</description>
 
@@ -174,6 +180,7 @@
 
     <item>
       <title>Nick JR FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152316.ts</link>
       <description>Nick JR canal infantil</description>
 
@@ -195,6 +202,7 @@
 
     <item>
       <title>Cartoonito FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152322.ts</link>
       <description>Cartoonito canal infantil</description>
 
@@ -216,6 +224,7 @@
 
     <item>
       <title>TV Ra Tim Bum FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152326.ts</link>
       <description>TV Ra Tim Bum canal infantil</description>
 
@@ -237,6 +246,7 @@
 
     <item>
       <title>Discovery Kids FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152329.ts</link>
       <description>Discovery Kids canal infantil</description>
 
@@ -258,6 +268,7 @@
 
     <item>
       <title>Kids Mais HD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152338.ts</link>
       <description>Kids Mais canal infantil</description>
 
@@ -279,6 +290,7 @@
 
     <item>
       <title>Tooncast FHD</title>
+      <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152339.ts</link>
       <description>Tooncast canal infantil</description>
 
