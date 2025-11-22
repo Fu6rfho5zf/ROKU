@@ -8,7 +8,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/2546497.m3u8</link>
       <description>Box Kids TV canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 03:39:31 GMT</pubDate>
       <guid isPermaLink="false">mtcdn7nxvp</guid>
       <media:content
         channels="2"
@@ -21,7 +21,7 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/2546497.m3u8">
-        <media:thumbnail url="" />
+        <media:thumbnail url="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" />
         <media:title>Box Kids TV</media:title>
       </media:content>
     </item>
