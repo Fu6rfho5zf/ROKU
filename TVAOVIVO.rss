@@ -7,8 +7,8 @@
       <title>DumDum SD</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 22 Nov 2025 07:25:24 GMT</pubDate>
+      <description>DumDum canal infantil</description>
+      <pubDate>Sat, 22 Nov 2025 07:26:38 GMT</pubDate>
       <guid isPermaLink="false">o7o5j2fn4xg</guid>
       <media:content
         channels="2"
@@ -21,7 +21,7 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
-        <media:thumbnail url="https://image.tmdb.org/t/p/w500/i3vcj3GI3TCmDlnI3aLA7pWKIuN.jpg" />
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DumDum_logo.svg/500px-DumDum_logo.svg.png" />
         <media:title>DumDum SD</media:title>
       </media:content>
     </item>
