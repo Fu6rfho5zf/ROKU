@@ -188,11 +188,11 @@
     </item>
 
     <item>
-      <title>Gloob</title>
+      <title>Discovery Kids</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152329.m3u8</link>
       <description>Discovery Kids canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:19:04 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:20:14 GMT</pubDate>
       <guid isPermaLink="false">2smbyqllx8w</guid>
       <media:content
         channels="2"
@@ -205,8 +205,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152329.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/gloob.png" />
-        <media:title>Gloob</media:title>
+        <media:thumbnail url="https://api.reidoscanais.io/img/discovery kids.png" />
+        <media:title>Discovery Kids</media:title>
       </media:content>
     </item>
 
