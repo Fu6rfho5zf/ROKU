@@ -54,7 +54,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152307.m3u8</link>
       <description>Cartoon Network canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:40:47 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:40:08 GMT</pubDate>
       <guid isPermaLink="false">q9s1itax55l</guid>
       <media:content
         channels="2"
@@ -123,7 +123,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152316.m3u8</link>
       <description>Nick JR canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:40:57 GMT</pubDate>
       <guid isPermaLink="false">40b3n3snq9d</guid>
       <media:content
         channels="2"
@@ -136,7 +136,7 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152316.m3u8">
-        <media:thumbnail url="" />
+        <media:thumbnail url="https://api.reidoscanais.io/img/nick jr.png" />
         <media:title>Nick JR FHD</media:title>
       </media:content>
     </item>
