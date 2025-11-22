@@ -54,7 +54,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152307.m3u8</link>
       <description>Cartoon Network canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:39:09 GMT</pubDate>
       <guid isPermaLink="false">q9s1itax55l</guid>
       <media:content
         channels="2"
@@ -67,7 +67,7 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152307.m3u8">
-        <media:thumbnail url="" />
+        <media:thumbnail url="https://api.reidoscanais.io/img/cartoon network.png" />
         <media:title>Cartoon Network FHD</media:title>
       </media:content>
     </item>
