@@ -4,11 +4,11 @@
     <title>Roku-Developer-Sample-Feed</title>
 
     <item>
-      <title>DumDum Boys: I Dødens Dal</title>
+      <title>DumDum SD</title>
       <category>Infantil</category>
-      <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 22 Nov 2025 07:20:38 GMT</pubDate>
+      <link>gg</link>
+      <description>DumDum canal infantil</description>
+      <pubDate>Sat, 22 Nov 2025 07:21:35 GMT</pubDate>
       <guid isPermaLink="false">o7o5j2fn4xg</guid>
       <media:content
         channels="2"
@@ -20,9 +20,9 @@
         width="1280"
         type="video/m3u8"
         isDefault="true"
-        url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
-        <media:thumbnail url="https://image.tmdb.org/t/p/w500/cdLpHEhHVFhN239BKLAigiXyvPo.jpg" />
-        <media:title>DumDum Boys: I Dødens Dal</media:title>
+        url="gg">
+        <media:thumbnail url="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" />
+        <media:title>DumDum SD</media:title>
       </media:content>
     </item>
 
