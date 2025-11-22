@@ -4,11 +4,11 @@
     <title>Roku-Developer-Sample-Feed</title>
 
     <item>
-      <title>DumDum SD</title>
+      <title>DumDum Boys: I Dødens Dal</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
-      <description>DumDum canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <description></description>
+      <pubDate>Sat, 22 Nov 2025 07:20:38 GMT</pubDate>
       <guid isPermaLink="false">o7o5j2fn4xg</guid>
       <media:content
         channels="2"
@@ -21,8 +21,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
-        <media:thumbnail url="" />
-        <media:title>DumDum SD</media:title>
+        <media:thumbnail url="https://image.tmdb.org/t/p/w500/cdLpHEhHVFhN239BKLAigiXyvPo.jpg" />
+        <media:title>DumDum Boys: I Dødens Dal</media:title>
       </media:content>
     </item>
 
@@ -73,11 +73,11 @@
     </item>
 
     <item>
-      <title>Rolê Gloob</title>
+      <title>Gloob FHD</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152310.m3u8</link>
-      <description>Pippo e Berê apresentam o ""Rolê Gloob"", um programa ao vivo, cheio de brincadeiras e diversão, integrando programação linear com o universo digital.</description>
-      <pubDate>Sat, 22 Nov 2025 07:19:47 GMT</pubDate>
+      <description>Gloob canal infantil</description>
+      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
       <guid isPermaLink="false">qzxxkwwj9i8</guid>
       <media:content
         channels="2"
@@ -90,8 +90,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152310.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/gloob.png" />
-        <media:title>Rolê Gloob</media:title>
+        <media:thumbnail url="" />
+        <media:title>Gloob FHD</media:title>
       </media:content>
     </item>
 
