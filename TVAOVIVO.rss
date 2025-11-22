@@ -6,9 +6,9 @@
     <item>
       <title>DumDum SD</title>
       <category>Infantil</category>
-      <link>gg</link>
+      <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
       <description>DumDum canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 07:21:35 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 07:23:58 GMT</pubDate>
       <guid isPermaLink="false">o7o5j2fn4xg</guid>
       <media:content
         channels="2"
@@ -20,8 +20,8 @@
         width="1280"
         type="video/m3u8"
         isDefault="true"
-        url="gg">
-        <media:thumbnail url="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" />
+        url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DumDum_logo.svg/500px-DumDum_logo.svg.png" />
         <media:title>DumDum SD</media:title>
       </media:content>
     </item>
