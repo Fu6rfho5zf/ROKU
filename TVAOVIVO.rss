@@ -21,7 +21,7 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
-        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DumDum_logo.svg/500px-DumDum_logo.svg.png" />
+        <media:thumbnail url="" />
         <media:title>DumDum SD</media:title>
       </media:content>
     </item>
@@ -96,11 +96,11 @@
     </item>
 
     <item>
-      <title>Gloobinho FHD</title>
+      <title>glooblinho</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152313.m3u8</link>
       <description>Gloobinho canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 07:35:50 GMT</pubDate>
       <guid isPermaLink="false">4qokx4yq8uk</guid>
       <media:content
         channels="2"
@@ -113,8 +113,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152313.m3u8">
-        <media:thumbnail url="" />
-        <media:title>Gloobinho FHD</media:title>
+        <media:thumbnail url="https://api.reidoscanais.io/img/gloob.png" />
+        <media:title>glooblinho</media:title>
       </media:content>
     </item>
 
