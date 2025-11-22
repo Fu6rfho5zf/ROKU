@@ -4,29 +4,6 @@
     <title>Roku-Developer-Sample-Feed</title>
 
     <item>
-      <title>DANIELBY</title>
-      <category>GG</category>
-      <link>https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/png/header_002.png</link>
-      <description>With the Twitch channel, you can watch the most popular broadcasm3u8 of the day...</description>
-      <pubDate>Sat, 22 Nov 2025 03:32:01 GMT</pubDate>
-      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/png/header_002.png">
-        <media:thumbnail url="" />
-        <media:title>DANIELBY</media:title>
-      </media:content>
-    </item>
-
-    <item>
       <title>Box Kids TV</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/2546497.m3u8</link>
