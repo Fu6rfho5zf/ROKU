@@ -188,11 +188,11 @@
     </item>
 
     <item>
-      <title>Discovery Kids</title>
+      <title>Discovery Kids FHD</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152329.m3u8</link>
       <description>Discovery Kids canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:20:14 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
       <guid isPermaLink="false">2smbyqllx8w</guid>
       <media:content
         channels="2"
@@ -205,8 +205,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152329.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/discovery kids.png" />
-        <media:title>Discovery Kids</media:title>
+        <media:thumbnail url="" />
+        <media:title>Discovery Kids FHD</media:title>
       </media:content>
     </item>
 
@@ -238,7 +238,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152339.m3u8</link>
       <description>Tooncast canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:20:33 GMT</pubDate>
       <guid isPermaLink="false">789a7wdm2ho</guid>
       <media:content
         channels="2"
@@ -251,7 +251,7 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152339.m3u8">
-        <media:thumbnail url="" />
+        <media:thumbnail url="https://api.reidoscanais.io/img/tooncast.png" />
         <media:title>Tooncast FHD</media:title>
       </media:content>
     </item>
