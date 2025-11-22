@@ -50,11 +50,11 @@
     </item>
 
     <item>
-      <title>Cartoon Network</title>
+      <title>Cartoon Network FHD</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152307.m3u8</link>
       <description>Cartoon Network canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:40:08 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:41:57 GMT</pubDate>
       <guid isPermaLink="false">q9s1itax55l</guid>
       <media:content
         channels="2"
@@ -67,8 +67,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152307.m3u8">
-        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" />
-        <media:title>Cartoon Network</media:title>
+        <media:thumbnail url="https://api.reidoscanais.io/img/cartoon network.png" />
+        <media:title>Cartoon Network FHD</media:title>
       </media:content>
     </item>
 
@@ -192,7 +192,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152329.m3u8</link>
       <description>Discovery Kids canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:41:17 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:34:34 GMT</pubDate>
       <guid isPermaLink="false">2smbyqllx8w</guid>
       <media:content
         channels="2"
