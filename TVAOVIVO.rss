@@ -119,11 +119,11 @@
     </item>
 
     <item>
-      <title>Nick JR</title>
+      <title>Nick JR FHD</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152316.m3u8</link>
       <description>Nick JR canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 17:03:25 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:50:50 GMT</pubDate>
       <guid isPermaLink="false">40b3n3snq9d</guid>
       <media:content
         channels="2"
@@ -136,8 +136,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152316.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/nickjr.png" />
-        <media:title>Nick JR</media:title>
+        <media:thumbnail url="https://api.reidoscanais.io/img/nick jr.png" />
+        <media:title>Nick JR FHD</media:title>
       </media:content>
     </item>
 
@@ -192,7 +192,7 @@
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152329.m3u8</link>
       <description>Discovery Kids canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:34:34 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 17:03:42 GMT</pubDate>
       <guid isPermaLink="false">2smbyqllx8w</guid>
       <media:content
         channels="2"
