@@ -73,11 +73,11 @@
     </item>
 
     <item>
-      <title>Rolê Gloob</title>
+      <title>gloob</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152310.m3u8</link>
       <description>Pippo e Berê apresentam o ""Rolê Gloob"", um programa ao vivo, cheio de brincadeiras e diversão, integrando programação linear com o universo digital.</description>
-      <pubDate>Sat, 22 Nov 2025 07:41:16 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 07:57:08 GMT</pubDate>
       <guid isPermaLink="false">qzxxkwwj9i8</guid>
       <media:content
         channels="2"
@@ -90,8 +90,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152310.m3u8">
-        <media:thumbnail url="https://image.tmdb.org/t/p/w500/3sYvhRhF75Aa7Sc4NCj6H4O4xs9.jpg" />
-        <media:title>Rolê Gloob</media:title>
+        <media:thumbnail url="https://api.reidoscanais.io/img/gloob.png" />
+        <media:title>gloob</media:title>
       </media:content>
     </item>
 
