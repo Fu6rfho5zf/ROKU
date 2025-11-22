@@ -50,11 +50,11 @@
     </item>
 
     <item>
-      <title>Cartoon Network FHD</title>
+      <title>Cartoon Network</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152307.m3u8</link>
       <description>Cartoon Network canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:40:08 GMT</pubDate>
       <guid isPermaLink="false">q9s1itax55l</guid>
       <media:content
         channels="2"
@@ -67,8 +67,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152307.m3u8">
-        <media:thumbnail url="" />
-        <media:title>Cartoon Network FHD</media:title>
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" />
+        <media:title>Cartoon Network</media:title>
       </media:content>
     </item>
 
@@ -119,11 +119,11 @@
     </item>
 
     <item>
-      <title>Nick JR</title>
+      <title>Nick JR FHD</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152316.m3u8</link>
       <description>Nick JR canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 16:43:44 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
       <guid isPermaLink="false">40b3n3snq9d</guid>
       <media:content
         channels="2"
@@ -136,17 +136,17 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152316.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/nick jr.png" />
-        <media:title>Nick JR</media:title>
+        <media:thumbnail url="" />
+        <media:title>Nick JR FHD</media:title>
       </media:content>
     </item>
 
     <item>
-      <title>Cartoonito FHD</title>
+      <title>Cartoonito</title>
       <category>Infantil</category>
       <link>http://lideboxr.store:80/881101381017/896811296068/152322.m3u8</link>
       <description>Cartoonito canal infantil</description>
-      <pubDate>Sat, 22 Nov 2025 03:30:22 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 16:44:38 GMT</pubDate>
       <guid isPermaLink="false">7ww21bldj7m</guid>
       <media:content
         channels="2"
@@ -159,8 +159,8 @@
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/152322.m3u8">
-        <media:thumbnail url="" />
-        <media:title>Cartoonito FHD</media:title>
+        <media:thumbnail url="https://api.reidoscanais.io/img/cartoonito.png" />
+        <media:title>Cartoonito</media:title>
       </media:content>
     </item>
 
