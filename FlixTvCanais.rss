@@ -25,5 +25,28 @@
         <media:title>DumDum Boys: I Dødens Dal</media:title>
       </media:content>
     </item>
+
+    <item>
+      <title>SBT</title>
+      <category>Aberta</category>
+      <link>http://cloudsalex.space:80/63563847/534384835/9015005.m3u8</link>
+      <description></description>
+      <pubDate>Mon, 24 Nov 2025 12:04:56 GMT</pubDate>
+      <guid isPermaLink="false">item_1763985896132_n93s069kw</guid>
+      <media:content
+        channels="2"
+        bitrate="1500"
+        duration="0"
+        fileSize="0"
+        framerate="25"
+        height="720"
+        width="1280"
+        type="video/m3u8"
+        isDefault="true"
+        url="http://cloudsalex.space:80/63563847/534384835/9015005.m3u8">
+        <media:thumbnail url="https://api.reidoscanais.io/img/sbt.png" />
+        <media:title>SBT</media:title>
+      </media:content>
+    </item>
   </channel>
 </rss>
