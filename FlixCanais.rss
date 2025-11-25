@@ -11,13 +11,13 @@
       <pubDate>Tue, 25 Nov 2025 03:40:56 GMT</pubDate>
       <guid isPermaLink="false">item_1764042056417_cffzzthky</guid>
       <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
+      "channels": "2",
+      "bitrate": "1328.0",
+      "duration": "53",
+      "fileSize": "8731706",
+      "framerate": "23.976",
+      "height": "720",
+      "width": "1280",
         type="video/m3u8"
         isDefault="true"
         url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
