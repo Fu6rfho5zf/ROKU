@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+
+    <item>
+      <title>Dududu</title>
+      <category>Infantil</category>
+      <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
+      <description></description>
+      <pubDate>Tue, 25 Nov 2025 01:26:37 GMT</pubDate>
+      <guid isPermaLink="false">o7o5j2fn4xg</guid>
+      <media:content
+        channels="2"
+        bitrate="1500"
+        duration="0"
+        fileSize="0"
+        framerate="25"
+        height="720"
+        width="1280"
+        type="video/m3u8"
+        isDefault="true"
+        url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
+        <media:thumbnail url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8" />
+        <media:title>Dududu</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
