@@ -2,5 +2,28 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Roku-Developer-Sample-Feed</title>
+
+    <item>
+      <title>Repórter</title>
+      <category>Animação</category>
+      <link>http://lideboxr.store:80/881101381017/896811296068/236014.m3u8</link>
+      <description>Programa de reportagens com foco em comportamento, aventura, ciência e natureza. Apresenta destinos do Brasil e do mundo, além de novas pesquisas nas áreas de saúde e tecnologia.</description>
+      <pubDate>Tue, 25 Nov 2025 03:40:56 GMT</pubDate>
+      <guid isPermaLink="false">item_1764042056417_cffzzthky</guid>
+      <media:content
+        channels="2"
+        bitrate="1500"
+        duration="0"
+        fileSize="0"
+        framerate="25"
+        height="720"
+        width="1280"
+        type="video/m3u8"
+        isDefault="true"
+        url="http://lideboxr.store:80/881101381017/896811296068/236014.m3u8">
+        <media:thumbnail url="https://image.tmdb.org/t/p/w500/kHzxPDagDo7yxsFEtmKMFKolaXl.jpg" />
+        <media:title>Repórter</media:title>
+      </media:content>
+    </item>
   </channel>
 </rss>
