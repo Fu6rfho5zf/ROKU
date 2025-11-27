@@ -1,52 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>Roku-Developer-Sample-Feed</title>
-
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+    <title>Flix Canais - TV Ao Vivo</title>
+    <description>Canais de TV ao vivo para teste Roku</description>
+    <link>https://exemplo.com</link>
+    <lastBuildDate>Mon, 01 Jan 2024 12:00:00 GMT</lastBuildDate>
+    
     <item>
-      <title>CARTOONITO</title>
-      <category>Infantil</category>
-      <link>http://fontetop.xyz:80/live/gBYwhN/sjKykS/140941.m3u8</link>
-      <description></description>
-      <pubDate>Wed, 26 Nov 2025 15:18:49 GMT</pubDate>
-      <guid isPermaLink="false">item_1764170320656_kggq3bqay</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://fontetop.xyz:80/live/gBYwhN/sjKykS/140941.m3u8">
-        <media:thumbnail url="https://raphmx00.com/cartoonito.png" />
-        <media:title>CARTOONITO</media:title>
-      </media:content>
+        <title>Notícias 24h</title>
+        <description>Canal de notícias 24 horas ao vivo</description>
+        <guid>canal_noticias_001</guid>
+        <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+        <category>Notícias</category>
+        <media:content url="https://exemplo.com/streams/noticias24h.m3u8" type="application/x-mpegURL">
+            <media:title>Notícias 24h</media:title>
+            <media:description>Canal de notícias 24 horas ao vivo</media:description>
+            <media:thumbnail url="https://exemplo.com/thumbs/noticias.jpg"/>
+            <media:rating>L</media:rating>
+        </media:content>
     </item>
-
+    
     <item>
-      <title>GLOOB</title>
-      <category>Infantil</category>
-      <link>http://fontetop.xyz:80/live/gBYwhN/sjKykS/83221.m3u8</link>
-      <description>Eu</description>
-      <pubDate>Wed, 26 Nov 2025 15:22:07 GMT</pubDate>
-      <guid isPermaLink="false">item_1764170346340_f1e8j6ug8</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://fontetop.xyz:80/live/gBYwhN/sjKykS/83221.m3u8">
-        <media:thumbnail url="https://raphmx00.com/gloob.png" />
-        <media:title>GLOOB</media:title>
-      </media:content>
+        <title>Esportes TV</title>
+        <description>Canal esportivo com transmissões ao vivo</description>
+        <guid>canal_esportes_002</guid>
+        <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+        <category>Esportes</category>
+        <media:content url="https://exemplo.com/streams/esportes.m3u8" type="application/x-mpegURL">
+            <media:title>Esportes TV</media:title>
+            <media:description>Canal esportivo com transmissões ao vivo</media:description>
+            <media:thumbnail url="https://exemplo.com/thumbs/esportes.jpg"/>
+            <media:rating>L</media:rating>
+        </media:content>
     </item>
-  </channel>
+    
+    <item>
+        <title>Filmes Clássicos</title>
+        <description>Canal de filmes clássicos 24h</description>
+        <guid>canal_filmes_003</guid>
+        <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+        <category>Entretenimento</category>
+        <media:content url="https://exemplo.com/streams/filmes.m3u8" type="application/x-mpegURL">
+            <media:title>Filmes Clássicos</media:title>
+            <media:description>Canal de filmes clássicos 24h</media:description>
+            <media:thumbnail url="https://exemplo.com/thumbs/filmes.jpg"/>
+            <media:rating>12+</media:rating>
+        </media:content>
+    </item>
+    
+    <item>
+        <title>Música Live</title>
+        <description>Clipes musicais e shows ao vivo</description>
+        <guid>canal_musica_004</guid>
+        <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+        <category>Música</category>
+        <media:content url="https://exemplo.com/streams/musica.ts" type="video/MP2T">
+            <media:title>Música Live</media:title>
+            <media:description>Clipes musicais e shows ao vivo</media:description>
+            <media:thumbnail url="https://exemplo.com/thumbs/musica.jpg"/>
+            <media:rating>L</media:rating>
+        </media:content>
+    </item>
+</channel>
 </rss>
