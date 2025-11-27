@@ -49,12 +49,12 @@
     </item>
     
     <item>
-        <title>Música Live</title>
+        <title>Músicyyyyya Live</title>
         <description>Clipes musicais e shows ao vivo</description>
         <guid>canal_musica_004</guid>
         <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
         <category>Música</category>
-        <media:content url="https://exemplo.com/streams/musica.ts" type="video/MP2T">
+        <media:content url="http://fontetop.xyz:80/live/gBYwhN/sjKykS/140941.m3u8" type="video/m3u8">
             <media:title>Música Live</media:title>
             <media:description>Clipes musicais e shows ao vivo</media:description>
             <media:thumbnail url="https://exemplo.com/thumbs/musica.jpg"/>
