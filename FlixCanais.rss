@@ -54,8 +54,8 @@
         <guid>canal_musica_004</guid>
         <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
         <category>Música</category>
-        <media:content url="http://fontetop.xyz:80/live/gBYwhN/sjKykS/140941.m3u8" type="video/m3u8">
-            <media:title>Músicayyyyyya Live</media:title>
+        <media:content url="http://fontetop.xyz:80/live/gBYwhN/sjKykS/83221.m3u8" type="video/m3u8">
+            <media:title>Músi Live</media:title>
             <media:description>Clipes musicais e shows ao vivo</media:description>
             <media:thumbnail url="https://exemplo.com/thumbs/musica.jpg"/>
             <media:rating>L</media:rating>
