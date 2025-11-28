@@ -49,14 +49,14 @@
     </item>
     
     <item>
-        <title>gg Live</title>
+        <title>ggg Live</title>
         <description>Clipes musicais e shows ao vivo</description>
         <guid>canal_musica_004</guid>
         <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
         <category>Música</category>
-        <media:content url="http://fontetop.xyz:80/movie/aXx1PS/WtWTAy/351797.mp4" type="video/m3u8">
-            <media:title>gg Live</media:title>
-            <media:description>Clipess musicais e shows ao vivo</media:description>
+        <media:content url="http://fontetop.xyz:80/live/aXx1PS/WtWTAy/326466.m3u8" type="video/m3u8">
+            <media:title>ggg Live</media:title>
+            <media:description>Clipes musicais e shows ao vivo</media:description>
             <media:thumbnail url="https://raphmx00.com/gloob.png"/>
             <media:rating>L</media:rating>
         </media:content>
