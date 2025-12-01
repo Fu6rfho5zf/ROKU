@@ -1,161 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-    <channel>
-        <title>Feed de Séries - Exemplo 2 Temporadas x 10 Episódios</title>
-        <link>http://www.exemplo.com/series/feed_2x10</link>
-        <description>Exemplo de feed RSS com 2 temporadas e 10 episódios cada.</description>
-        
-        <!-- ==================================================================== -->
-        <!-- Temporada 1 (10 Episódios) -->
-        <!-- ==================================================================== -->
-        
-        <!-- Episódio 1 a 10 da Temporada 1 -->
-        <item>
-            <title>S1:E1 - O Início</title>
-            <description>Primeiro episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>1</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e1.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E2 - A Descoberta</title>
-            <description>Segundo episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>2</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e2.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E3 - O Confronto</title>
-            <description>Terceiro episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>3</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e3.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E4 - A Aliança</title>
-            <description>Quarto episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>4</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e4.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E5 - O Segredo</title>
-            <description>Quinto episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>5</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e5.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E6 - A Fuga</title>
-            <description>Sexto episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>6</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e6.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E7 - A Busca</title>
-            <description>Sétimo episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>7</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e7.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E8 - A Traição</title>
-            <description>Oitavo episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>8</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e8.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E9 - A Revelação</title>
-            <description>Nono episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>9</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e9.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S1:E10 - O Final</title>
-            <description>Décimo e último episódio da primeira temporada.</description>
-            <season_num>1</season_num>
-            <episode_num>10</episode_num>
-            <media:content url="http://videos.exemplo.com/s1e10.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        
-        <!-- ==================================================================== -->
-        <!-- Temporada 2 (10 Episódios) -->
-        <!-- ==================================================================== -->
-        
-        <!-- Episódio 1 a 10 da Temporada 2 -->
-        <item>
-            <title>S2:E1 - Recomeço</title>
-            <description>Primeiro episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>1</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e1.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E2 - Novas Faces</title>
-            <description>Segundo episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>2</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e2.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E3 - O Mistério</title>
-            <description>Terceiro episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>3</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e3.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E4 - A Profecia</title>
-            <description>Quarto episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>4</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e4.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E5 - A Batalha</title>
-            <description>Quinto episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>5</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e5.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E6 - O Sacrifício</title>
-            <description>Sexto episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>6</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e6.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E7 - A Reunião</title>
-            <description>Sétimo episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>7</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e7.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E8 - A Verdade</title>
-            <description>Oitavo episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>8</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e8.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E9 - O Desespero</title>
-            <description>Nono episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>9</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e9.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        <item>
-            <title>S2:E10 - O Novo Final</title>
-            <description>Décimo e último episódio da segunda temporada.</description>
-            <season_num>2</season_num>
-            <episode_num>10</episode_num>
-            <media:content url="http://videos.exemplo.com/s2e10.mp4" type="video/mp4" medium="video" isDefault="true" />
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?> 
+    <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0"> 
+      <channel> 
+        <title>Roku-Developer-Sample-Feed</title> 
+         
+          <item> 
+            <title>Love After World Domination (2022) S01E01</title> 
+            <category>Animes</category> 
+            <link>http://arenaf.shop:80/series/071865048407/826852654079/3726535.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 19:22:31 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764616951474_wexue23yo</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/series/071865048407/826852654079/3726535.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28Yuahk4354YNGDlbY8vi74Rtr.jpg" /> 
+              <media:title>Love After World Domination (2022) S01E01</media:title> 
+            </media:content> 
+          </item> 
+         
+      </channel> 
+    </rss>
