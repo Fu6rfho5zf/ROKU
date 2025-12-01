@@ -3,5 +3,18 @@
       <channel> 
         <title>Roku-Developer-Sample-Feed</title> 
          
+          <item> 
+            <title>⚡ Um Dia Fora de Controle (2025)</title> 
+            <category>Destaques</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/4023852.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:07:43 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598063613_zpl0szlo4</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/4023852.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auLOTlulof19GSPrNomyG7myfzN.jpg" /> 
+              <media:title>⚡ Um Dia Fora de Controle (2025)</media:title> 
+            </media:content> 
+          </item> 
+         
       </channel> 
     </rss>
