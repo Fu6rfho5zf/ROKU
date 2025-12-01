@@ -4,15 +4,54 @@
         <title>Roku-Developer-Sample-Feed</title> 
          
           <item> 
-            <title>A&amp;E SD</title> 
+            <title>Solo Leveling S01E01</title> 
             <category>Destaques</category> 
-            <link>http://arenaf.shop:80/071865048407/826852654079/223533.m3u8</link> 
+            <link>http://arenaf.shop:80/series/071865048407/826852654079/3918059.mp4</link> 
             <description>Sem descrição</description> 
-            <pubDate>Mon, 01 Dec 2025 14:47:11 GMT</pubDate> 
-            <guid isPermaLink="false">iptv_1764599965982_6bqk3c9v6</guid> 
-            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223533.m3u8"> 
-              <media:thumbnail url="https://logos.imperioapps.xyz/A&amp;E.png" /> 
-              <media:title>A&amp;E SD</media:title> 
+            <pubDate>Mon, 01 Dec 2025 19:26:02 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764617162887_km493md69</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/series/071865048407/826852654079/3918059.mp4"> 
+              <media:thumbnail url="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wyjphDUt1vrlckpvfPd0TekuqMm.jpg" /> 
+              <media:title>Solo Leveling S01E01</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Solo Leveling S01E02</title> 
+            <category>Destaques</category> 
+            <link>http://arenaf.shop:80/series/071865048407/826852654079/3918060.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 19:26:02 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764617162889_o1kbgb6np</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/series/071865048407/826852654079/3918060.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w300/ch5o2NnATbswomEiCugOgjX8IwY.jpg" /> 
+              <media:title>Solo Leveling S01E02</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Solo Leveling S01E03</title> 
+            <category>Destaques</category> 
+            <link>http://arenaf.shop:80/series/071865048407/826852654079/3918061.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 19:26:02 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764617162889_xhfhdn2bu</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/series/071865048407/826852654079/3918061.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w300/3h4QyKMODJiOQKqfuL4NrehcV43.jpg" /> 
+              <media:title>Solo Leveling S01E03</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Solo Leveling S01E04</title> 
+            <category>Destaques</category> 
+            <link>http://arenaf.shop:80/series/071865048407/826852654079/3918062.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 19:26:02 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764617162890_1q90g71o7</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/series/071865048407/826852654079/3918062.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w300/dlNMEUnupGrPATIaiOEmxfvUfSG.jpg" /> 
+              <media:title>Solo Leveling S01E04</media:title> 
             </media:content> 
           </item> 
          
