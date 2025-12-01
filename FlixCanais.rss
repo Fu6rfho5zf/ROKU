@@ -1,443 +1,1203 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>Roku-Developer-Sample-Feed</title>
-
-    <item>
-      <title>Box Kids TV</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/2546497.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:03:13 GMT</pubDate>
-      <guid isPermaLink="false">item_1764424993235_pchfhzze9</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/2546497.m3u8">
-        <media:thumbnail url="https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png" />
-        <media:title>Box Kids TV</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>CARTOON NETWORK HD</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152308.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:05:42 GMT</pubDate>
-      <guid isPermaLink="false">item_1764425142647_e0d3jg49j</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152308.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/CARTOON_NETWORK.png" />
-        <media:title>CARTOON NETWORK HD</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>CARTOONITO HD</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152324.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:07:11 GMT</pubDate>
-      <guid isPermaLink="false">item_1764425231421_u52h2s0tq</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152324.m3u8">
-        <media:thumbnail url="https://www.fontedecanais.io/logos/canais/cartoonito.png" />
-        <media:title>CARTOONITO HD</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>DUMDUM HD</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152342.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:09:01 GMT</pubDate>
-      <guid isPermaLink="false">item_1764425341898_830pauh62</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152342.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/DUMDUM.png" />
-        <media:title>DUMDUM HD</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>GLOOB FHD</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152310.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:10:30 GMT</pubDate>
-      <guid isPermaLink="false">item_1764425430643_4ntsh93wv</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152310.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/gloob.png" />
-        <media:title>GLOOB FHD</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>GLOOB HD</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152311.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:11:21 GMT</pubDate>
-      <guid isPermaLink="false">item_1764425469825_no34gg81r</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152311.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/GLOOB.png" />
-        <media:title>GLOOB HD</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>GLOOBINHO</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152313.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:33:07 GMT</pubDate>
-      <guid isPermaLink="false">item_1764426787729_nsx4t5ri1</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152313.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/gloobinho.png" />
-        <media:title>GLOOBINHO</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>KIDS MAIS</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152338.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:34:34 GMT</pubDate>
-      <guid isPermaLink="false">item_1764426874336_mbvhdcy5p</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152338.m3u8">
-        <media:thumbnail url="https://i.imgur.com/86cfDFx.png" />
-        <media:title>KIDS MAIS</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>NICK JR</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152316.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:36:03 GMT</pubDate>
-      <guid isPermaLink="false">item_1764426963841_5hpcehlu0</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152316.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/nickjr.png" />
-        <media:title>NICK JR</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>NICKELODEON</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/223512.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:36:58 GMT</pubDate>
-      <guid isPermaLink="false">item_1764427018040_hzp13xve5</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/223512.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/nickelodeon.png" />
-        <media:title>NICKELODEON</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>TOONCAST</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152339.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:38:05 GMT</pubDate>
-      <guid isPermaLink="false">item_1764427085938_663kxt1ru</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152339.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/tooncast.png" />
-        <media:title>TOONCAST</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>TV Ra Tim Bum</title>
-      <category>Infantil</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/152327.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:50:23 GMT</pubDate>
-      <guid isPermaLink="false">item_1764427170814_1awc84de1</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/152327.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/TV_RA_TIM_BUM.png" />
-        <media:title>TV Ra Tim Bum</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>SBT</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/127314.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:52:05 GMT</pubDate>
-      <guid isPermaLink="false">item_1764427925870_0guwvaikx</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/127314.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/sbt.png" />
-        <media:title>SBT</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>GLOBO FHD</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/153459.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 20:39:44 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428004798_uuej9sr5p</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/153459.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
-        <media:title>GLOBO FHD</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>TV BRASIL</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/127171.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:54:36 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428076411_y28xoak4s</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/127171.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/tvbrasil.png" />
-        <media:title>TV BRASIL</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>TV CULTURA</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/151482.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 15:04:50 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428121631_31b3mka5v</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/151482.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/tvcultura.png" />
-        <media:title>TV CULTURA</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>MALHAÇÃO FAST</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/250241.m3u8</link>
-      <description>Em Beta</description>
-      <pubDate>Sat, 29 Nov 2025 15:05:43 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428228924_d2ame1dpg</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/250241.m3u8">
-        <media:thumbnail url="https://static.wikia.nocookie.net/logopedia/images/6/61/MalhacaoFast_2024.png" />
-        <media:title>MALHAÇÃO FAST</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>GLOBO 4K</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/150840.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 20:40:23 GMT</pubDate>
-      <guid isPermaLink="false">item_1764448823038_625l5s2f2</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/150840.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
-        <media:title>GLOBO 4K</media:title>
-      </media:content>
-    </item>
-
-    <item>
-      <title>GLOBO HD</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/153461.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 20:40:56 GMT</pubDate>
-      <guid isPermaLink="false">item_1764448856079_z97ky9839</guid>
-      <media:content
-        channels="2"
-        bitrate="1500"
-        duration="0"
-        fileSize="0"
-        framerate="25"
-        height="720"
-        width="1280"
-        type="video/m3u8"
-        isDefault="true"
-        url="http://arenaf.shop:80/071865048407/826852654079/153461.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
-        <media:title>GLOBO HD</media:title>
-      </media:content>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?> 
+    <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0"> 
+      <channel> 
+        <title>Roku-Developer-Sample-Feed</title> 
+         
+          <item> 
+            <title>Box Kids TV</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/2546497.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:03:13 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764424993235_pchfhzze9</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/2546497.m3u8"> 
+              <media:thumbnail url="https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png" /> 
+              <media:title>Box Kids TV</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>CARTOON NETWORK HD</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152308.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:05:42 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764425142647_e0d3jg49j</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152308.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CARTOON_NETWORK.png" /> 
+              <media:title>CARTOON NETWORK HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>CARTOONITO HD</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152324.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:07:11 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764425231421_u52h2s0tq</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152324.m3u8"> 
+              <media:thumbnail url="https://www.fontedecanais.io/logos/canais/cartoonito.png" /> 
+              <media:title>CARTOONITO HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>DUMDUM HD</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152342.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:09:01 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764425341898_830pauh62</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152342.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/DUMDUM.png" /> 
+              <media:title>DUMDUM HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>GLOOB FHD</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152310.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:10:30 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764425430643_4ntsh93wv</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152310.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/gloob.png" /> 
+              <media:title>GLOOB FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>GLOOB HD</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152311.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:11:21 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764425469825_no34gg81r</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152311.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/GLOOB.png" /> 
+              <media:title>GLOOB HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>GLOOBINHO</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152313.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:33:07 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764426787729_nsx4t5ri1</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152313.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/gloobinho.png" /> 
+              <media:title>GLOOBINHO</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>KIDS MAIS</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152338.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:34:34 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764426874336_mbvhdcy5p</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152338.m3u8"> 
+              <media:thumbnail url="https://i.imgur.com/86cfDFx.png" /> 
+              <media:title>KIDS MAIS</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>NICK JR</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152316.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:36:03 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764426963841_5hpcehlu0</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152316.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/nickjr.png" /> 
+              <media:title>NICK JR</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>NICKELODEON</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223512.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:36:58 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764427018040_hzp13xve5</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223512.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/nickelodeon.png" /> 
+              <media:title>NICKELODEON</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TOONCAST</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152339.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:38:05 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764427085938_663kxt1ru</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152339.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/tooncast.png" /> 
+              <media:title>TOONCAST</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TV Ra Tim Bum</title> 
+            <category>Infantil</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/152327.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:50:23 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764427170814_1awc84de1</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152327.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TV_RA_TIM_BUM.png" /> 
+              <media:title>TV Ra Tim Bum</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>SBT</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/127314.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:52:05 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764427925870_0guwvaikx</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127314.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/sbt.png" /> 
+              <media:title>SBT</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>GLOBO FHD</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/153459.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 20:39:44 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764428004798_uuej9sr5p</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/153459.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" /> 
+              <media:title>GLOBO FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TV BRASIL</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/127171.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 14:54:36 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764428076411_y28xoak4s</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127171.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/tvbrasil.png" /> 
+              <media:title>TV BRASIL</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TV CULTURA</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/151482.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 15:04:50 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764428121631_31b3mka5v</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/151482.m3u8"> 
+              <media:thumbnail url="https://api.reidoscanais.io/img/tvcultura.png" /> 
+              <media:title>TV CULTURA</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>MALHAÇÃO FAST</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250241.m3u8</link> 
+            <description>Em Beta</description> 
+            <pubDate>Sat, 29 Nov 2025 15:05:43 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764428228924_d2ame1dpg</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250241.m3u8"> 
+              <media:thumbnail url="https://static.wikia.nocookie.net/logopedia/images/6/61/MalhacaoFast_2024.png" /> 
+              <media:title>MALHAÇÃO FAST</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>GLOBO 4K</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/150840.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 20:40:23 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764448823038_625l5s2f2</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/150840.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" /> 
+              <media:title>GLOBO 4K</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>GLOBO HD</title> 
+            <category>Aberta</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/153461.m3u8</link> 
+            <description></description> 
+            <pubDate>Sat, 29 Nov 2025 20:40:56 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764448856079_z97ky9839</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/153461.m3u8"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" /> 
+              <media:title>GLOBO HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>A&amp;E FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223531.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750253_1jvl7llta</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223531.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/A&amp;E.png" /> 
+              <media:title>A&amp;E FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>A&amp;E HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223532.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750254_xpn0ska7q</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223532.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/A&amp;E.png" /> 
+              <media:title>A&amp;E HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>A&amp;E SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223533.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750254_4lhkngtqg</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223533.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/A&amp;E.png" /> 
+              <media:title>A&amp;E SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>AMC FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223534.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750254_2banbw7qy</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223534.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/AMC.png" /> 
+              <media:title>AMC FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>AMC HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223535.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750254_zcmslpoyf</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223535.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/AMC.png" /> 
+              <media:title>AMC HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>AMC SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223536.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750254_9wfdj9j3i</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223536.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/AMC.png" /> 
+              <media:title>AMC SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>AXN FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223537.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_m84u0880l</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223537.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/AXN.png" /> 
+              <media:title>AXN FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>AXN HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223538.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_6xh4g4df2</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223538.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/AXN.png" /> 
+              <media:title>AXN HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>AXN SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223540.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_6hp13lrob</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223540.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/AXN.png" /> 
+              <media:title>AXN SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Canal Brasil FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223541.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_eys21gh8s</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223541.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CANAL_BRASIL.png" /> 
+              <media:title>Canal Brasil FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Canal Brasil HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223542.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_xqaiwdzrl</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223542.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CANAL_BRASIL.png" /> 
+              <media:title>Canal Brasil HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Canal Brasil SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223543.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_2543fe6ef</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223543.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CANAL_BRASIL.png" /> 
+              <media:title>Canal Brasil SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Cine Brasil TV FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223544.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_dihz13l5h</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223544.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CINEBRASILTV.png" /> 
+              <media:title>Cine Brasil TV FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Cinemax FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223548.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750255_ca5dcgkyk</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223548.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CINEMAX.png" /> 
+              <media:title>Cinemax FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Cinemax HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223549.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_qgty393b0</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223549.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CINEMAX.png" /> 
+              <media:title>Cinemax HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Cinemax SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223550.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_zk0s9gj1e</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223550.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/CINEMAX.png" /> 
+              <media:title>Cinemax SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>DreamWorks</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/829589.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_0nuzqc3eq</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/829589.ts"> 
+              <media:thumbnail url="http://logos.imperioapps.xyz/DREAMWORKS.png" /> 
+              <media:title>DreamWorks</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Film &amp; Arts FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223551.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_lxrew89cj</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223551.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/FILM&amp;ART.png" /> 
+              <media:title>Film &amp; Arts FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Film &amp; Arts HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223552.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_kqs3lkfji</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223552.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/FILM&amp;ART.png" /> 
+              <media:title>Film &amp; Arts HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Megapix FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223556.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_uv70ty0v4</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223556.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/MEGAPIX.png" /> 
+              <media:title>Megapix FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Megapix HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223557.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_r4rcv3r92</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223557.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/MEGAPIX.png" /> 
+              <media:title>Megapix HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Megapix SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223558.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_f55nk4ofo</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223558.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/MEGAPIX.png" /> 
+              <media:title>Megapix SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>My Time Movie HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250260.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_o89v16x7u</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250260.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/MYTIMEMOVIENETWORK.png" /> 
+              <media:title>My Time Movie HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>MyTime Movie Network Brazil HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223559.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_4owra3tiz</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223559.ts"> 
+              <media:thumbnail url="https://i.imgur.com/zE64Hwc.png" /> 
+              <media:title>MyTime Movie Network Brazil HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Paramount Network FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223560.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_o2cde03ue</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223560.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/PARAMOUNT.png" /> 
+              <media:title>Paramount Network FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Paramount Network HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223561.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_ec4em8t63</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223561.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/PARAMOUNT.png" /> 
+              <media:title>Paramount Network HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Paramount Network SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223562.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_ejypmj7od</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223562.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/PARAMOUNT.png" /> 
+              <media:title>Paramount Network SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Playpoca Filmes</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223563.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750256_qy3ndeo2b</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223563.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/PLAYPOCA.png" /> 
+              <media:title>Playpoca Filmes</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Playpoca Series</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223564.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750257_flafzuxfk</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223564.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/PLAYPOCA.png" /> 
+              <media:title>Playpoca Series</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Ação</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250259.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_uf78ak2ws</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250259.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Ação</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Brasil HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223565.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_uo7kqnt5r</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223565.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Brasil HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Cine Espanto</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250258.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_hw6sxduax</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250258.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Cine Espanto</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Comédia</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250257.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_6j15gmgho</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250257.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Comédia</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Crime</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250256.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_bg2v5ckz5</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250256.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Crime</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Famí­lia</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250255.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_mnuhx50gd</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250255.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Famí­lia</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Movie Sphere</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250254.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_ckyque4pz</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250254.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Movie Sphere</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime Romance</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250253.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_f6txmv0nw</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250253.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime Romance</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime TG Brasil</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250252.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_somsfejx7</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250252.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime TG Brasil</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Runtime TV &amp; Filmes</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250251.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_3ctg52dny</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250251.ts"> 
+              <media:thumbnail url="https://www.runtime.tv/themes/custom/run/runtime/logo.png" /> 
+              <media:title>Runtime TV &amp; Filmes</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Sony FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223566.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_f171f92ol</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223566.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SONY.png" /> 
+              <media:title>Sony FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Sony HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223567.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_9m2kwoboo</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223567.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SONY.png" /> 
+              <media:title>Sony HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Sony Movies</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250250.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_30ryg5a4b</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250250.ts"> 
+              <media:thumbnail url="http://97j91.xyz/images/sonymovies.png" /> 
+              <media:title>Sony Movies</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Sony One Classics</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223569.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_ujvcthpsz</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223569.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SONY.png" /> 
+              <media:title>Sony One Classics</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Sony One Emoções</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/250249.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_rvr07uxjw</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250249.ts"> 
+              <media:thumbnail url="http://97j91.xyz/images/sonyone.png" /> 
+              <media:title>Sony One Emoções</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Sony SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223570.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750258_bm0be7krh</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223570.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SONY.png" /> 
+              <media:title>Sony SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Space FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223571.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_n6jmlyosj</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223571.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SPACE.png" /> 
+              <media:title>Space FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Space HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223572.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_vrm1vasrz</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223572.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SPACE.png" /> 
+              <media:title>Space HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Space SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223573.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_04tyx25he</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223573.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/SPACE.png" /> 
+              <media:title>Space SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Studio Universal FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223578.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_u97gkfgft</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223578.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" /> 
+              <media:title>Studio Universal FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Studio Universal HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223579.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_fhlv0kanl</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223579.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" /> 
+              <media:title>Studio Universal HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Studio Universal SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223580.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_p5j2g47mj</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223580.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" /> 
+              <media:title>Studio Universal SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TCM FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/127042.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_sm3ur6med</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127042.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TCM.png" /> 
+              <media:title>TCM FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TCM HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/127043.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_y2c7a7gih</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127043.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TCM.png" /> 
+              <media:title>TCM HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TCM SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/127044.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_bvx66v3s6</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127044.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TCM.png" /> 
+              <media:title>TCM SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TLC FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223581.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_93owkqmlp</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223581.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TLC.png" /> 
+              <media:title>TLC FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TLC HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223582.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750259_bc1vwydyu</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223582.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TLC.png" /> 
+              <media:title>TLC HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TLC SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223583.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_c742iovcx</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223583.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TLC.png" /> 
+              <media:title>TLC SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223584.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_k5op9hh6i</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223584.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT.png" /> 
+              <media:title>TNT FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223586.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_kse97jp11</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223586.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT.png" /> 
+              <media:title>TNT HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT Novelas FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223587.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_iociib36c</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223587.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT_NOVELAS.png" /> 
+              <media:title>TNT Novelas FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT Novelas HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223588.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_rg25fv9o9</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223588.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT_NOVELAS.png" /> 
+              <media:title>TNT Novelas HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT Novelas SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223589.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_vevmyg210</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223589.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT_NOVELAS.png" /> 
+              <media:title>TNT Novelas SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223590.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_895fdtve6</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223590.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT.png" /> 
+              <media:title>TNT SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT Series FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223591.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_khcdoqznz</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223591.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT_SERIES.png" /> 
+              <media:title>TNT Series FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT Series HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223592.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_aokfpj3io</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223592.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT_SERIES.png" /> 
+              <media:title>TNT Series HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>TNT Series SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223593.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_8mb8deo0z</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223593.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/TNT_SERIES.png" /> 
+              <media:title>TNT Series SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Universal Premiere</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/252422.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750260_nmm6xzqu1</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/252422.ts"> 
+              <media:thumbnail url="https://i.imgur.com/sfPwXQg.png" /> 
+              <media:title>Universal Premiere</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Universal TV FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223594.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750261_i8kj56hik</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223594.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/UNIVERSAL.png" /> 
+              <media:title>Universal TV FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Universal TV HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223595.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750261_g78zmfvv9</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223595.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/UNIVERSAL.png" /> 
+              <media:title>Universal TV HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Universal TV SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223596.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750261_p1dmf5egu</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223596.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/UNIVERSAL.png" /> 
+              <media:title>Universal TV SD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Warner Channel FHD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223597.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750261_9pr0ccqkj</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223597.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" /> 
+              <media:title>Warner Channel FHD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Warner Channel HD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223599.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750261_0gioc4kup</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223599.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" /> 
+              <media:title>Warner Channel HD</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Warner Channel SD</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/071865048407/826852654079/223601.ts</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 14:19:10 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764598750261_udao7s9o6</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/223601.ts"> 
+              <media:thumbnail url="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" /> 
+              <media:title>Warner Channel SD</media:title> 
+            </media:content> 
+          </item> 
+         
+      </channel> 
+    </rss>
