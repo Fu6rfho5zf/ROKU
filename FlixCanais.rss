@@ -250,5 +250,18 @@
             </media:content> 
           </item> 
          
+          <item> 
+            <title>Love After World Domination (2022) S01E03</title> 
+            <category>Filmes_Séries</category> 
+            <link>http://arenaf.shop:80/series/071865048407/826852654079/3726537.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Mon, 01 Dec 2025 19:37:36 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764617856377_fpjqov2w4</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/series/071865048407/826852654079/3726537.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT1VV1tzVpwb3SQJALvI51d33AQ.jpg" /> 
+              <media:title>Love After World Domination (2022) S01E03</media:title> 
+            </media:content> 
+          </item> 
+         
       </channel> 
     </rss>
