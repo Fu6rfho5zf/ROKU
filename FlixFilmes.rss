@@ -1,6 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>Roku-Developer-Sample-Feed</title>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?> 
+    <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0"> 
+      <channel> 
+        <title>Roku-Developer-Sample-Feed</title> 
+         
+          <item> 
+            <title>Operação Presente</title> 
+            <category>Em_Cartaz</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/3997030.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 11:14:43 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764670227762_3qosbtwvl</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/3997030.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w500/8eOg1Yrb3ASxWqw1xj4zBP9s1rq.jpg" /> 
+              <media:title>Operação Presente</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Esqueceram de Mim</title> 
+            <category>Em_Cartaz</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/4000874.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 11:11:58 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764670589061_1nqbnnegk</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/4000874.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w500/AeaRJ5a4SxFJSo4AHOLKpr3PEyi.jpg" /> 
+              <media:title>Esqueceram de Mim</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Barbie em a Canção de Natal (2008)</title> 
+            <category>Aventura_Ação</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/3997091.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 10:24:17 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764671057666_dybfmkgoo</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/3997091.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h4ayaBjFIMD3cO2lmyuRd9FFD7.jpg" /> 
+              <media:title>Barbie em a Canção de Natal (2008)</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Barbie: Um Natal Perfeito (2011)</title> 
+            <category>Aventura_Ação</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/3987199.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 10:28:44 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764671290478_chjacw9wu</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/3987199.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdWcoJMn7ZwXpTTChNy1OIqwit3.jpg" /> 
+              <media:title>Barbie: Um Natal Perfeito (2011)</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>10 Horas para o Natal</title> 
+            <category>Em_Cartaz</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/4001407.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 11:08:54 GMT</pubDate> 
+            <guid isPermaLink="false">item_1764672109236_viu2z9oqm</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/4001407.mp4"> 
+              <media:thumbnail url="https://upload.wikimedia.org/wikipedia/pt/9/9e/10_Horas_para_o_Natal.jpg?20211123192718" /> 
+              <media:title>10 Horas para o Natal</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Um Menino Chamado Natal</title> 
+            <category>Em_Cartaz</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/3992222.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 11:59:16 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764672543969_cvtad6c14</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/3992222.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik7x3QS4LVfZPMV4lAIFtoh7ASS.jpg" /> 
+              <media:title>Um Menino Chamado Natal</media:title> 
+            </media:content> 
+          </item> 
+         
+          <item> 
+            <title>Operação Natal</title> 
+            <category>Em_Cartaz</category> 
+            <link>http://arenaf.shop:80/movie/071865048407/826852654079/3994709.mp4</link> 
+            <description>Sem descrição</description> 
+            <pubDate>Tue, 02 Dec 2025 11:59:05 GMT</pubDate> 
+            <guid isPermaLink="false">iptv_1764672653126_v69q0bprv</guid> 
+            <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/3994709.mp4"> 
+              <media:thumbnail url="https://image.tmdb.org/t/p/w500/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg" /> 
+              <media:title>Operação Natal</media:title> 
+            </media:content> 
+          </item> 
+         
+      </channel> 
+    </rss>
