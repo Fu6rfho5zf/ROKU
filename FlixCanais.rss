@@ -4,97 +4,6 @@
     <title>Roku-Developer-Sample-Feed</title>
     
     <item>
-      <title>SBT</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/127314.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:52:05 GMT</pubDate>
-      <guid isPermaLink="false">item_1764427925870_0guwvaikx</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127314.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/sbt.png" />
-        <media:title>SBT</media:title>
-      </media:content>
-    </item>
-        
-    <item>
-      <title>GLOBO FHD</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/153459.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 20:39:44 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428004798_uuej9sr5p</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/153459.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
-        <media:title>GLOBO FHD</media:title>
-      </media:content>
-    </item>
-        
-    <item>
-      <title>TV BRASIL</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/127171.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 14:54:36 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428076411_y28xoak4s</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127171.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/tvbrasil.png" />
-        <media:title>TV BRASIL</media:title>
-      </media:content>
-    </item>
-        
-    <item>
-      <title>TV CULTURA</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/151482.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 15:04:50 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428121631_31b3mka5v</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/151482.m3u8">
-        <media:thumbnail url="https://api.reidoscanais.io/img/tvcultura.png" />
-        <media:title>TV CULTURA</media:title>
-      </media:content>
-    </item>
-        
-    <item>
-      <title>MALHAÇÃO FAST</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/250241.m3u8</link>
-      <description>Em Beta</description>
-      <pubDate>Sat, 29 Nov 2025 15:05:43 GMT</pubDate>
-      <guid isPermaLink="false">item_1764428228924_d2ame1dpg</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250241.m3u8">
-        <media:thumbnail url="https://static.wikia.nocookie.net/logopedia/images/6/61/MalhacaoFast_2024.png" />
-        <media:title>MALHAÇÃO FAST</media:title>
-      </media:content>
-    </item>
-        
-    <item>
-      <title>GLOBO 4K</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/150840.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 20:40:23 GMT</pubDate>
-      <guid isPermaLink="false">item_1764448823038_625l5s2f2</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/150840.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
-        <media:title>GLOBO 4K</media:title>
-      </media:content>
-    </item>
-        
-    <item>
-      <title>GLOBO HD</title>
-      <category>Aberta</category>
-      <link>http://arenaf.shop:80/071865048407/826852654079/153461.m3u8</link>
-      <description></description>
-      <pubDate>Sat, 29 Nov 2025 20:40:56 GMT</pubDate>
-      <guid isPermaLink="false">item_1764448856079_z97ky9839</guid>
-      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/153461.m3u8">
-        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
-        <media:title>GLOBO HD</media:title>
-      </media:content>
-    </item>
-        
-    <item>
       <title>Box Kids TV</title>
       <category>Infantil</category>
       <link>http://arenaf.shop:80/071865048407/826852654079/2546497.m3u8</link>
@@ -247,6 +156,97 @@
       <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/152327.m3u8">
         <media:thumbnail url="https://logos.imperioapps.xyz/TV_RA_TIM_BUM.png" />
         <media:title>TV Ra Tim Bum</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>SBT</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/127314.m3u8</link>
+      <description></description>
+      <pubDate>Sat, 29 Nov 2025 14:52:05 GMT</pubDate>
+      <guid isPermaLink="false">item_1764427925870_0guwvaikx</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127314.m3u8">
+        <media:thumbnail url="https://api.reidoscanais.io/img/sbt.png" />
+        <media:title>SBT</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>GLOBO FHD</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/153459.m3u8</link>
+      <description></description>
+      <pubDate>Sat, 29 Nov 2025 20:39:44 GMT</pubDate>
+      <guid isPermaLink="false">item_1764428004798_uuej9sr5p</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/153459.m3u8">
+        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
+        <media:title>GLOBO FHD</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>TV BRASIL</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/127171.m3u8</link>
+      <description></description>
+      <pubDate>Sat, 29 Nov 2025 14:54:36 GMT</pubDate>
+      <guid isPermaLink="false">item_1764428076411_y28xoak4s</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/127171.m3u8">
+        <media:thumbnail url="https://api.reidoscanais.io/img/tvbrasil.png" />
+        <media:title>TV BRASIL</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>TV CULTURA</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/151482.m3u8</link>
+      <description></description>
+      <pubDate>Sat, 29 Nov 2025 15:04:50 GMT</pubDate>
+      <guid isPermaLink="false">item_1764428121631_31b3mka5v</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/151482.m3u8">
+        <media:thumbnail url="https://api.reidoscanais.io/img/tvcultura.png" />
+        <media:title>TV CULTURA</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>MALHAÇÃO FAST</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/250241.m3u8</link>
+      <description>Em Beta</description>
+      <pubDate>Sat, 29 Nov 2025 15:05:43 GMT</pubDate>
+      <guid isPermaLink="false">item_1764428228924_d2ame1dpg</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/250241.m3u8">
+        <media:thumbnail url="https://static.wikia.nocookie.net/logopedia/images/6/61/MalhacaoFast_2024.png" />
+        <media:title>MALHAÇÃO FAST</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>GLOBO 4K</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/150840.m3u8</link>
+      <description></description>
+      <pubDate>Sat, 29 Nov 2025 20:40:23 GMT</pubDate>
+      <guid isPermaLink="false">item_1764448823038_625l5s2f2</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/150840.m3u8">
+        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
+        <media:title>GLOBO 4K</media:title>
+      </media:content>
+    </item>
+        
+    <item>
+      <title>GLOBO HD</title>
+      <category>Aberta</category>
+      <link>http://arenaf.shop:80/071865048407/826852654079/153461.m3u8</link>
+      <description></description>
+      <pubDate>Sat, 29 Nov 2025 20:40:56 GMT</pubDate>
+      <guid isPermaLink="false">item_1764448856079_z97ky9839</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/m3u8" isDefault="true" url="http://arenaf.shop:80/071865048407/826852654079/153461.m3u8">
+        <media:thumbnail url="https://logos.imperioapps.xyz/globo.png" />
+        <media:title>GLOBO HD</media:title>
       </media:content>
     </item>
         
