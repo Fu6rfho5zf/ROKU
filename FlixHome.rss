@@ -3,5 +3,18 @@
   <channel>
     <title>Roku-Developer-Sample-Feed</title>
     
+    <item>
+      <title>O Território 4K (2022)</title>
+      <category>Destaques</category>
+      <link>http://arenaf.shop:80/movie/071865048407/826852654079/3987391.mp4</link>
+      <description>Sem descrição</description>
+      <pubDate>Wed, 03 Dec 2025 01:02:07 GMT</pubDate>
+      <guid isPermaLink="false">iptv_1764723727220_exgrtusv4</guid>
+      <media:content channels="2" bitrate="1500" duration="0" fileSize="0" framerate="25" height="720" width="1280" type="video/mp4" isDefault="true" url="http://arenaf.shop:80/movie/071865048407/826852654079/3987391.mp4">
+        <media:thumbnail url="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSpcwqg93u1D55P4wsQSh1hdjdh.jpg" />
+        <media:title>O Território 4K (2022)</media:title>
+      </media:content>
+    </item>
+        
   </channel>
 </rss>
